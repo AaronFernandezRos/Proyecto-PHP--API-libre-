@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.movie-container {
+    margin-top: 50px;
+}
+
+.movie-image{
+    width: 400px;
+    border-radius: 10px;
+}
+
+.text{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
